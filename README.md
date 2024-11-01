@@ -54,6 +54,7 @@ Este proyecto se centra en el análisis de datos de obras públicas en Argentina
 2. **Tableau**:
    - Navega por los dashboards interactivos para un análisis visual y dinámico.
    - Usa los filtros de provincia, tipo de obra, y estado de ejecución para personalizar tu exploración de los datos.
+     [Haciendo click aquí podes ver el resultado del análisis en Tableau Public](https://public.tableau.com/views/EntregaFinalAlvarez_17013832080210/DocumentacinEntregaFinal?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Conclusiones
 Este análisis ha facilitado una comprensión integral de las obras públicas en Argentina, permitiendo identificar focos de inversión y el progreso de proyectos en todo el país. La combinación de Excel y Tableau permitió una validación exhaustiva de datos y una visualización efectiva para diferentes niveles de detalle.
